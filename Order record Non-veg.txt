@@ -1,0 +1,59 @@
+
+Customer's name,contact number, email address, address and landmark: 
+
+Kavindhren Visvanathan
+0167828692
+kavimdhrens@gmail.com
+Taman seri serdang
+Smk kepala batas
+1 Burger (01) is odered
+1 Pizza (04) is odered
+1 Hot dog (07) is odered
+1 Chicken fry (10) is odered
+1 Fish curry (13) is odered
+1 Lamb chop (16) is odered
+1 Chicken varuval (19) is odered
+1 Tandoori chicken (22) is odered
+the total amount will be RM44.5
+your order will be delivered in 46 minutes
+
+
+Customer's name,contact number, email address, address and landmark: 
+
+Tharvinash Visvanathan
+0166644254
+tharvinash24@gmail.com
+Taman kosmo jaya
+AEON Big
+1 Burger (01) is odered
+1 Pizza (04) is odered
+1 Hot dog (07) is odered
+1 Chicken fry (10) is odered
+1 Lamb chop (13) is odered
+the total amount will be RM62
+your order will be delivered in 33 minutes
+
+
+Customer's name,contact number, email address, address and landmark: 
+
+Vigganaraj Visvanathan
+0194108127
+viggi24@gmail.com
+Taman seri serdanf
+Sk kepala batas
+6 Burger (01) is odered
+5 Lamb chop (13) is odered
+the total amount will be RM165.5
+your order will be delivered in 95 minutes
+
+
+Customer's name, contact number, email address and address: 
+Vigganraj visvanathan
+01236589
+vikki24@gmail.com
+Taman bunga raya
+6 Burger (01) is odered
+21 Chicken fry (10) is odered
+2 Lamb chop (13) is odered
+the total amount will be RM117.5
+your order will be delivered in 119 minutes

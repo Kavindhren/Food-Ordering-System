@@ -1,0 +1,15 @@
+Burger (01)
+5.50 (price)
+5 mins
+Pizza (04)
+3.50 (price)
+10 mins
+Hot dog (07)
+25.00 (price)
+2 mins
+Chicken fry (10)
+1.50 (price)
+3 mins
+Lamb chop (13)
+26.50 (price)
+13 mins

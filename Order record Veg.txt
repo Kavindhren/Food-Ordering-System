@@ -1,0 +1,53 @@
+
+Customer's name,contact number, email address, address and landmark: 
+
+santuiramah krishnan
+0194708127
+shantivisva@gmail.com
+Taman seri serdang
+SK kepala batas
+1 Noodles (01) is odered
+1 Sandwich (04) is odered
+1 Veg. Thaali (07) is odered
+1 Chapati (10) is odered
+1 Putthu (13) is odered
+1 Veg chicken masala (16) is odered
+the total amount will be RM44
+your order will be delivered in 25 minutes
+
+
+Customer's name, contact number, email address and address: 
+Visvanathan Govindan
+0194108127
+shantivisva@gmail.com
+Taman seri serdang
+5 Noodles (01) is odered
+5 Veg. Thaali (07) is odered
+the total amount will be RM152.5
+your order will be delivered in 75 minutes
+
+
+Customer's name, contact number, email address and address: 
+Nermani Rajakuledram
+01236548
+nema@gmail.com
+Taman kosmo jaya
+2 Noodles (01) is odered
+2 Veg. Thaali (07) is odered
+1 Veg chicken masala (16) is odered
+the total amount will be RM67.5
+your order will be delivered in 46 minutes
+
+
+Customer's name, contact number, email address and address: 
+Latha Krishnan
+12539
+latha@gmail.com
+Taman permai
+5 Noodles (01) is odered
+6 Veg chicken masala (16) is odered
+10 Chapati (10) is odered
+the total amount will be RM81.5
+your order will be delivered in 91 minutes
+
+
